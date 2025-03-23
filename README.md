@@ -1,4 +1,4 @@
-# Hospital Management System Frontend
+# Hospital Management System (Bits hackathon)
 
 A professional hospital management system frontend that integrates with an existing Multi-Disease Prediction System backend.
 
