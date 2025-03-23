@@ -1,4 +1,4 @@
-
+![WhatsApp Image 2025-03-23 at 11 15 12_8b9269da](https://github.com/user-attachments/assets/68c59669-65e0-42f1-bdfb-07f9b96cadfe)
 # Hospital Management System Frontend
 A professional hospital management system frontend that integrates with an existing Multi-Disease Prediction System backend.
 ## Features
