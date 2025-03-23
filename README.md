@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-03-23 at 11 15 12_8b9269da](https://github.com/user-attachments/assets/68c59669-65e0-42f1-bdfb-07f9b96cadfe)
+
 # Hospital Management System Frontend
 A professional hospital management system frontend that integrates with an existing Multi-Disease Prediction System backend.
 ## Features
@@ -16,31 +16,16 @@ A professional hospital management system frontend that integrates with an exist
 - *SQLAlchemy*: ORM for database interaction
 - *FontAwesome*: Icon library
 ## Project Structure
-├── static # Static assets
-│ ├── css
-│ │ └── styles.css # Custom styles
-│ └── js
-│ ├── appointment.js # Appointment page functionality
-│ ├── disease-prediction.js # Disease prediction functionality
-│ ├── doctors.js # Doctors page functionality
-│ └── main.js # Global JavaScript utilities
-├── templates # HTML templates
-│ ├── 404.html # Error page
-│ ├── 500.html # Server error page
-│ ├── appointments.html # Appointment booking page
-│ ├── contact.html # Contact information page
-│ ├── disease-prediction.html # Disease prediction interface
-│ ├── doctors.html # Doctor directory page
-│ ├── index.html # Homepage
-│ └── layout.html # Base template
-├── app.py # Application initialization
-├── main.py # Application entry point
-├── models.py # Database models
-├── routes.py # View routes
-└── seed_db.py # Database seeding utility
-
+![WhatsApp Image 2025-03-23 at 11 15 12_8b9269da](https://github.com/user-attachments/assets/68c59669-65e0-42f1-bdfb-07f9b96cadfe)
 ## Screenshots
-(Add screenshots of your application here)
+<img width="1440" alt="Screenshot_2025-03-23_at_10 52 29 1" src="https://github.com/user-attachments/assets/d1cb1b43-73b9-4003-a2b0-0ee5f649db4f" />
+![WhatsApp Image 2025-03-23 at 11 17 01_b0bfd5a0](https://github.com/user-attachments/assets/4ef3a889-e214-44a6-acff-d68071969ca5)
+![WhatsApp Image 2025-03-23 at 11 17 12_42c60ccf](https://github.com/user-attachments/assets/c0571a79-ac57-430b-818a-054bd2460ba5)
+![WhatsApp Image 2025-03-23 at 11 16 49_d2ec4104](https://github.com/user-attachments/assets/bee4d54d-25de-42f4-a910-c0a8dbc0cdc2)
+![WhatsApp Image 2025-03-23 at 11 17 30_320d4980](https://github.com/user-attachments/assets/0285d395-89d5-4712-85df-fc0061833a8c)
+![WhatsApp Image 2025-03-23 at 11 18 39_c3851a77](https://github.com/user-attachments/assets/c9b66884-de0a-427b-8e32-11d4ae859bf8)
+
+
 ## Installation
 1. Clone the repository:
 git clone https://github.com/yourusername/hospital-management-frontend.git
