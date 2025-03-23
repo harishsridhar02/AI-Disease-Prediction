@@ -15,19 +15,6 @@ A professional hospital management system frontend that integrates with an exist
 - *PostgreSQL*: Database management system
 - *SQLAlchemy*: ORM for database interaction
 - *FontAwesome*: Icon library
-## Project Structure
-![WhatsApp Image 2025-03-23 at 11 15 12_8b9269da](https://github.com/user-attachments/assets/68c59669-65e0-42f1-bdfb-07f9b96cadfe)
-## Screenshots
-<img width="1440" alt="Screenshot_2025-03-23_at_10 52 29 1" src="https://github.com/user-attachments/assets/d1cb1b43-73b9-4003-a2b0-0ee5f649db4f" />
-![Doctors Avail](https://github.com/user-attachments/assets/d5203f04-7db5-4a45-b220-059f62713157)
-![Book APpointment(Blank)](https://github.com/user-attachments/assets/386557ad-5f09-46ce-a3fd-00f392bd9adb)
-![Book Appointement (Example)](https://github.com/user-attachments/assets/58287350-7277-44f7-b398-9eace9c936a7)
-![Mutli Disease Prediction (Tab)](https://github.com/user-attachments/assets/54bca8ed-8e8c-4214-b29e-4c6146f03c14)
-![Contact Us (Front End)](https://github.com/user-attachments/assets/7c2623cf-7712-47e1-afbb-98195db93c6e)
-
-
-
-
 
 ## Installation
 1. Clone the repository:
